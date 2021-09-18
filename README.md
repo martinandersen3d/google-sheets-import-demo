@@ -1,8 +1,6 @@
 # google-sheets-import-demo
 
 
-
-
 # Links:
 
 ## RSS
